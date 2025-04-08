@@ -1,4 +1,5 @@
-Project 4: Assignments Repository
+**Project 4: Assignments Repository**
+
 Welcome to my Project 4 Assignments repository! This repo contains all the assignments and tasks completed for the Modern AI Python Course by Panaversity. Below is an overview of the projects, tasks, and how to navigate through them.
 
 📂 Table of Contents
